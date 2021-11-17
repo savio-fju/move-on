@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  -->
 ## 💻 Projeto
 
-O Move.on é uma aplicação de 
+O Move.on é uma aplicação baseada na técnica de estudos "Pomodoro", nela você irá entrar com sua conta GitHub e encontrará vários desafios, e na medida que concluir os desafios irá subir de nível.
 
 ## 🔖 Layout
 
