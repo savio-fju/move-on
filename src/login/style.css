@@ -1,0 +1,99 @@
+
+input {
+  width: 420px;
+  height: 80px;
+  outline: none;
+  padding-left: 30.32px;
+  margin: 0px;
+  border: none;
+  border-radius: 4px 0px 0px 4px;
+  background: linear-gradient( to right, var(--input) 50%, transparent );
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--white);
+  
+}
+
+input::placeholder {
+  color: var(--title);
+}
+
+
+input:hover {
+  border: none;
+}
+
+button {
+  width: 80px;
+  height: 82px;
+  background: var(--buttom);
+  border-radius: 0px 4px 4px 0px;
+}
+button:hover {
+  transition: 0.1mm;
+  opacity: 0.8;
+}
+
+body {
+  background: #432767;
+  align-items: center;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.simbolo {
+  width: 100%;
+}
+.simbolo img {
+  max-width: 100%;
+  display: block;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.login {
+  width: 456px;
+  height: 420px;
+}
+
+.logo {
+  margin-top: 165px;
+}
+
+.welcome {
+  margin-top: 124px;
+
+  font-weight: 600;
+  font-size: 36px;
+  color: var(--white);
+}
+
+.github {
+  margin-top: 24px;
+
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.github > p {
+  font-weight: 500;
+  font-size: 20px;
+  color: var(--text-blue);
+}
+
+.input-login {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
